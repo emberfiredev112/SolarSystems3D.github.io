@@ -1,0 +1,249 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+<style type="text/css">
+body {
+    background-color: #907AD6;
+}
+.pin {
+    top: -140px;
+    position: relative;
+}
+.pintxt {
+    position: relative;
+    top: 170px;
+    font-size: 50px;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    color: #FFFFFF;
+}
+.keylink {
+    font-size: 39px;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    color: #FFFFFF;
+    position: relative;
+    top: -97px;
+    float: none;
+    left: -12px;
+}
+.aboutlink {
+    font-size: 39px;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    color: #FFFFFF;
+    position: relative;
+    top: -287px;
+    left: 1064px;
+}
+.Figurinelink {
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 39px;
+    position: relative;
+    left: 664px;
+    top: -95px;
+}
+.Credits {
+    font-size: 39px;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    color: #FFFFFF;
+    position: relative;
+    top: 11px;
+    left: 448px;
+}
+.heading {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 72px;
+    position: relative;
+    color: #FFFFFF;
+    top: -534px;
+    left: -65px;
+    width: 626px;
+}
+.logogif {
+}
+.giflogo {
+    position: absolute;
+    float: right;
+    top: 34px;
+    padding-left: 0px;
+    margin-left: -621px;
+    margin-top: 3px;
+}
+.keychaintxt {
+    color: #FFFFFF;
+    font-size: 50px;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    position: relative;
+    top: 870px;
+    left: -38px;
+}
+.prices {
+    font-size: 42px;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    color: #FFFFFF;
+    left: 1029px;
+    position: relative;
+    top: -285px;
+}
+.pinlink {
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 42px;
+    position: relative;
+    top: 2px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    left: -229pt;
+    margin-left: 12;
+    margin-bottom: 12;
+    text-align: center;
+}
+.logoimg {
+    padding-top: 0px;
+    position: relative;
+    top: -865pt;
+    width: 170px;
+    float: right;
+    clear: left;
+}
+.figurines {
+    color: #FFFFFF;
+    font-size: 50px;
+    text-align: center;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-weight: normal;
+    position: relative;
+    top: 755px;
+}
+.headback {
+    position: absolute;
+    top: -6px;
+    left: -111px;
+}
+.border {
+    top: 356px;
+    position: absolute;
+    left: -44px;
+}
+.keychainimg {
+    position: absolute;
+    left: 680px;
+    top: 1330px;
+}
+.figimg {
+    top: 722px;
+    position: relative;
+    width: 391px;
+    height: 534px;
+}
+.border2 {
+    position: absolute;
+    top: 1126px;
+    left: -53px;
+}
+.border3 {
+    top: 1900px;
+    position: absolute;
+    width: 2025px;
+    left: -55px;
+}
+
+@media screen{
+.pinlink {
+    left: -397px;
+}
+.logoimg {
+    position: relative;
+    left: -1607px;
+}
+.heading {
+    left: -58px;
+}
+.keylink {
+    left: 655px;
+    position: relative;
+}
+.Figurinelink {
+    position: relative;
+    left: 741px;
+}
+.aboutlink {
+    left: 1133px;
+    top: -279px;
+    position: relative;
+}
+.keychainimg {
+    position: relative;
+    left: 52px;
+    margin-top: 0px;
+    top: 129px;
+}
+.figurines {
+    position: relative;
+    top: 223px;
+}
+.figimg {
+    position: relative;
+    left: 21px;
+    top: 200px;
+}
+}
+</style>
+</head>
+	
+	
+	<img src="images/Header Background Image 2.png" alt="" width="2030" height="231" class="headback"/> 
+	
+	
+
+	
+	
+	<center class="heading"> SolarSystems3D </center>
+	
+		
+<a href="Pins Page.html" class="pinlink">	<p> Pins </p></a>
+		
+		
+<a href="KeyChains.html" class="keylink">Keychains</a>
+	
+<a href="Figurines.html" class="Figurinelink">Figurines</a>
+	
+	
+<center class="pintxt"> Pins </center>
+	
+<img src="images/Border Test for SolarSystems3D site.png" alt="" width="2000" height="818" class="border"/>
+	
+<center class="keychaintxt"> KeyChains </center>
+	
+	
+	<a href="About Page.html" class="aboutlink">About</a>
+	
+	
+
+<center><h1 class="heading">SolarSystems3D</h1> </center> 
+	
+
+	
+<center> <img src="images/Pin-Gif-1.gif" alt="" width="500" height="500" class="pin"/> </center>
+	
+
+<img src="images/Site Logo.png" alt="" width="200" height="180" class="logoimg"/>
+		
+<center> <img src="images/Keychain Gif Animation.gif" alt="" width="500" height="520" class="keychainimg"/></center>
+	
+	
+<img src="images/Border Test for SolarSystems3D site.png" alt="" width="2000" height="818" class="border2"/>
+	
+	
+<P class="figurines"> Figurines </P>
+	
+	
+		<center><img src="images/Figurine Gif Animation final.gif" alt="" width="200" height="300" class="figimg"/> </center>
+	
+	
+	
+<img src="images/Border Test for SolarSystems3D site.png" alt="" width="1587" height="880" class="border3"/>
+</body>
+</html>
