@@ -1,0 +1,70 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+<style type="text/css">
+body {
+    background-color: #907AD6;
+}
+.text1 {
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    float: right;
+    list-style-position: outside;
+    height: 15px;
+}
+.mainpg {
+    position: relative;
+    top: -154px;
+    left: 108px;
+}
+.text4 {
+    position: relative;
+    top: -259px;
+    width: 1081px;
+    left: -183px;
+}
+.disclaimer {
+    top: -282px;
+    position: relative;
+    color: hsla(157,53%,71%,1.00);
+    width: 758px;
+    left: -20px;
+}
+.text5 {
+    position: relative;
+    top: -7px;
+    margin-top: 5px;
+    width: 1043px;
+    left: -136px;
+}
+</style>
+</head>
+
+<body class="text1">
+	
+			<p class="text5"> SolarSystems3D is an online marketplace for space themed accessories. All models are for 3D printing and revolve around planets in the Milky Way Galaxy.<p> <center> </center><br>
+<br>
+
+		<p class="text3">&nbsp;</p>
+	
+	<P class="text4"> My intention for this project is to show how creatives can use website making to their advantage even if they are not proficient in coding. By making your own site, it can be a good way to not only promote works but also lead potential clients and audiences to any small businesses.</P>
+	
+		<p class="disclaimer"> Disclaimer: This site was made for a student CapStone project only, and is not a real shop for 3D Printing Models!</p>
+	
+	<p class="mainpg"><a href="Main Page 3.html" class="mainpg"> Main Page</a></p>
+	
+<br><br>
+<br>
+
+	
+
+
+	
+  </p>
+
+</body>
+</html>
